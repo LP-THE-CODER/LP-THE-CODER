@@ -8,7 +8,7 @@ I'm Lakshmi Prasanna Morla, a passionate developer . Welcome to my GitHub profil
 - 🌱 I'm currently learning new technologies and frameworks.
 - 💡 I'm interested in web development, game development, and machine learning.
 - 📫 How to reach me: [morlalakshmiprasanna@gmail.com].
-- 🔗 My GitHub Page: [LP-THE-CODER.github.io](https://LP-THE-CODER.github.io)
+- 🔗 My GitHub Page: [LP-THE-CODER.github.io](https://lp-the-coder.github.io/To-Do-List/)
 
 ## Tech Stack
 
