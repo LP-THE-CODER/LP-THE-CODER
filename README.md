@@ -28,6 +28,7 @@ I'm Lakshmi Prasanna Morla, a passionate developer . Welcome to my GitHub profil
 - **[Machine Learning - Labor Dataset]**
   - Utilized machine learning techniques with Scikit-Learn to analyze and predict labor-related data.
 
+![Top Language](https://img.shields.io/github/languages/top/LP-THE-CODER/Your-Repo-Name)
 
 
 ## GitHub Stats
