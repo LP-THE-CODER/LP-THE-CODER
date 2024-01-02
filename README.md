@@ -30,7 +30,7 @@ I'm Lakshmi Prasanna Morla, a passionate developer . Welcome to my GitHub profil
 
 ![Top Language](https://img.shields.io/github/languages/top/LP-THE-CODER/python-game?color=yellow&logo=python)
 
-![Top Language](https://img.shields.io/github/languages/top/LP-THE-CODER/unique-projects?color=yellow&logo=python)
+
 ![Top Language](https://img.shields.io/github/languages/top/LP-THE-CODER/To-Do-List?color=orange&logo=html5)
 ![Top Language](https://img.shields.io/github/languages/top/LP-THE-CODER/python-game?color=blue&logo=css3)
 
