@@ -35,7 +35,6 @@ I'm Lakshmi Prasanna Morla, a passionate developer . Welcome to my GitHub profil
 
 
 ## GitHub Stats
-## GitHub Stats
 
 ![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=LP-THE-CODER&show_icons=true&theme=radical)
 
