@@ -40,7 +40,8 @@ I'm Lakshmi Prasanna Morla, a passionate developer . Welcome to my GitHub profil
 ![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=LP-THE-CODER&show_icons=true&theme=radical)
 
 ## Connect with me:
-[![Kaggle](https://img.shields.io/badge/-Kaggle-20BEFF?style=flat&logo=kaggle&logoColor=white)](kaggle.com/lakshmiprasannamorla)
+[![Kaggle](https://img.shields.io/badge/-Kaggle-20BEFF?style=flat&logo=kaggle&logoColor=white)](https://www.kaggle.com/lakshmiprasannamorla)
+
 
 Thanks for visiting! 😄
 
