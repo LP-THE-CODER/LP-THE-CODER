@@ -13,7 +13,7 @@ I'm Lakshmi Prasanna Morla, a passionate developer . Welcome to my GitHub profil
 
 ## Tech Stack
 
-- 🖥️ Frontend: HTML, CSS, JavaScript
+- 🖥️ Frontend: HTML, CSS
 - 🛠️ Backend: Python
 - 🤖 Machine Learning: Scikit-Learn, TensorFlow
   
