@@ -15,7 +15,7 @@ I'm Lakshmi Prasanna Morla, a passionate developer . Welcome to my GitHub profil
 - 🖥️ Frontend: HTML, CSS
 - 🛠️ Backend: Python
 - 🤖 Machine Learning: Scikit-Learn, TensorFlow
-  
+- 🪧 NLP : Textblob ,Transformers ,NLTK
 
 ## Projects
 
