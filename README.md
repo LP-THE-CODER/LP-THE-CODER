@@ -19,8 +19,8 @@ I'm Lakshmi Prasanna Morla, a passionate developer . Welcome to my GitHub profil
 
 ## Projects
 
-- 🔗 My GitHub Page: [LP-THE-CODER.github.io](https://lp-the-coder.github.io/To-Do-List/)
-- 🔗Deployed Page:[https://lp-bts.netlify.app/]
+- 🔗 To-Do List: [LP-THE-CODER.github.io](https://lp-the-coder.github.io/To-Do-List/)
+- 🔗BTS Webpage:[https://lp-bts.netlify.app/]
 
 ![Top Language](https://img.shields.io/github/languages/top/LP-THE-CODER/python-game?color=yellow&logo=python)
 
