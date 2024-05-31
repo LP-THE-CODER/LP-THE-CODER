@@ -4,7 +4,7 @@ I'm Lakshmi Prasanna Morla, a passionate developer . Welcome to my GitHub profil
 
 ## About Me
 
-- 🚀 I'm currently working on enhancing my skills in HTML, CSS,  Python, and Machine Learning.
+- 🚀 I'm currently working on enhancing my skills in HTML, CSS,  Python,Machine Learning and NLP.
 - 🌱 I'm currently learning new technologies and frameworks.
 - 💡 I'm interested in web development, game development, and machine learning,Datascience.
 - 📫 How to reach me: [morlalakshmiprasanna@gmail.com].
