@@ -12,20 +12,21 @@ I'm Lakshmi Prasanna Morla, a passionate developer . Welcome to my GitHub profil
 
 ## Tech Stack
  ### 🖥️ Frontend
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML" width="40" height="40"/> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS" width="40" height="40"/> 
 
 ### 🛠️ Backend
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40"/> 
 
 ### 🤖 Machine Learning
-![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikit-learn/scikit-learn-original.svg" alt="Scikit-Learn" width="40" height="40"/> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" alt="TensorFlow" width="40" height="40"/> 
 
 ### 🪧 NLP
-![TextBlob](https://img.shields.io/badge/TextBlob-FFD700?style=for-the-badge&logo=python&logoColor=white)
-![Transformers](https://img.shields.io/badge/Transformers-FFDA44?style=for-the-badge&logo=transformer&logoColor=black)
-![NLTK](https://img.shields.io/badge/NLTK-003A9B?style=for-the-badge&logo=python&logoColor=white)
+<img src="https://www.tensorflow.org/images/oss_projects/textblob.png" alt="TextBlob" width="40" height="40"/> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" alt="Transformers" width="40" height="40"/> 
+<img src="https://www.nltk.org/images/NLTK_logo.png" alt="NLTK" width="40" height="40"/> 
+
 
 ## Projects
 
