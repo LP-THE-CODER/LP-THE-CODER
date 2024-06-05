@@ -11,13 +11,7 @@ I'm Lakshmi Prasanna Morla, a passionate developer . Welcome to my GitHub profil
 
 
 ## Tech Stack
-
-- 🖥️ Frontend: HTML, CSS
-- 🛠️ Backend: Python
-- 🤖 Machine Learning: Scikit-Learn, TensorFlow
-- 🪧 NLP : Textblob ,Transformers ,NLTK
-  
-### 🖥️ Frontend
+  ### 🖥️ Frontend
 ![HTML](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
