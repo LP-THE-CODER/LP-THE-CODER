@@ -44,7 +44,7 @@ I'm Lakshmi Prasanna Morla, a passionate developer . Welcome to my GitHub profil
 ![Top Language](https://img.shields.io/github/languages/top/LP-THE-CODER/To-Do-List?color=orange&logo=html5)
 
 ### 🔗 [BTS Webpage](https://lp-bts.netlify.app/)
-![Top Language](https://img.shields.io/github/languages/top/LP-THE-CODER/BTS-Webpage?color=blue&logo=css3)
+
 
 
 
