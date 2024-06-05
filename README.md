@@ -11,21 +11,21 @@ I'm Lakshmi Prasanna Morla, a passionate developer . Welcome to my GitHub profil
 
 
 ## Tech Stack
- ### 🖥️ Frontend
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML" width="40" height="40"/> 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS" width="40" height="40"/> 
+### 🖥️ Frontend
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="50" height="50"/> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="50" height="50"/> 
 
 ### 🛠️ Backend
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40"/> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="50" height="50"/> 
 
 ### 🤖 Machine Learning
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikit-learn/scikit-learn-original.svg" alt="Scikit-Learn" width="40" height="40"/> 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" alt="TensorFlow" width="40" height="40"/> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikit-learn/scikit-learn-original.svg" alt="Scikit-Learn" width="50" height="50"/> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" alt="TensorFlow" width="50" height="50"/> 
 
 ### 🪧 NLP
-<img src="https://www.tensorflow.org/images/oss_projects/textblob.png" alt="TextBlob" width="40" height="40"/> 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" alt="Transformers" width="40" height="40"/> 
-<img src="https://www.nltk.org/images/NLTK_logo.png" alt="NLTK" width="40" height="40"/> 
+<img src="https://raw.githubusercontent.com/stevenliu216/NLP_Capstone/master/assets/textblob_icon.png" alt="TextBlob" width="50" height="50"/> 
+<img src="https://raw.githubusercontent.com/google-research/bert/master/img/transformer_128x128.png" alt="Transformers" width="50" height="50"/> 
+<img src="https://raw.githubusercontent.com/nltk/nltk.github.com/master/images/logo.png" alt="NLTK" width="50" height="50"/> 
 
 
 ## Projects
