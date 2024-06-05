@@ -12,20 +12,21 @@ I'm Lakshmi Prasanna Morla, a passionate developer . Welcome to my GitHub profil
 
 ## Tech Stack
 ### 🖥️ Frontend
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="50" height="50"/> 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="50" height="50"/> 
+![HTML](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 ### 🛠️ Backend
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="50" height="50"/> 
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 ### 🤖 Machine Learning
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikit-learn/scikit-learn-original.svg" alt="Scikit-Learn" width="50" height="50"/> 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" alt="TensorFlow" width="50" height="50"/> 
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 
 ### 🪧 NLP
-<img src="https://raw.githubusercontent.com/stevenliu216/NLP_Capstone/master/assets/textblob_icon.png" alt="TextBlob" width="50" height="50"/> 
-<img src="https://raw.githubusercontent.com/google-research/bert/master/img/transformer_128x128.png" alt="Transformers" width="50" height="50"/> 
-<img src="https://raw.githubusercontent.com/nltk/nltk.github.com/master/images/logo.png" alt="NLTK" width="50" height="50"/> 
+![TextBlob](https://img.shields.io/badge/TextBlob-F47E27?style=for-the-badge&logo=python&logoColor=white)
+![Transformers](https://img.shields.io/badge/Transformers-FFD700?style=for-the-badge&logo=huggingface&logoColor=white)
+![NLTK](https://img.shields.io/badge/NLTK-9A9A9A?style=for-the-badge&logo=python&logoColor=white)
+
 
 
 ## Projects
