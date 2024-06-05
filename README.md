@@ -11,9 +11,9 @@ I'm Lakshmi Prasanna Morla, a passionate developer . Welcome to my GitHub profil
 
 
 ## Tech Stack
-  ### 🖥️ Frontend
-![HTML](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+ ### 🖥️ Frontend
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 ### 🛠️ Backend
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -23,10 +23,9 @@ I'm Lakshmi Prasanna Morla, a passionate developer . Welcome to my GitHub profil
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 
 ### 🪧 NLP
-![TextBlob](https://img.shields.io/badge/TextBlob-F47E27?style=for-the-badge&logo=python&logoColor=white)
-![Transformers](https://img.shields.io/badge/Transformers-FFD700?style=for-the-badge&logo=huggingface&logoColor=white)
-![NLTK](https://img.shields.io/badge/NLTK-9A9A9A?style=for-the-badge&logo=python&logoColor=white)
-
+![TextBlob](https://img.shields.io/badge/TextBlob-FFD700?style=for-the-badge&logo=python&logoColor=white)
+![Transformers](https://img.shields.io/badge/Transformers-FFDA44?style=for-the-badge&logo=transformer&logoColor=black)
+![NLTK](https://img.shields.io/badge/NLTK-003A9B?style=for-the-badge&logo=python&logoColor=white)
 
 ## Projects
 
