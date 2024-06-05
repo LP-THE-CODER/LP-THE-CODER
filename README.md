@@ -35,6 +35,10 @@ I'm Lakshmi Prasanna Morla, a passionate developer . Welcome to my GitHub profil
 
 ### 🖥️ Web Applications
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
+
+### 🎨 Design
+![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
 
 
 
