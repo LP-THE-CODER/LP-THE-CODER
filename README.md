@@ -40,13 +40,12 @@ I'm Lakshmi Prasanna Morla, a passionate developer . Welcome to my GitHub profil
 
 ## Projects
 
-- 🔗 To-Do List: [LP-THE-CODER.github.io](https://lp-the-coder.github.io/To-Do-List/)
-- 🔗BTS Webpage:[https://lp-bts.netlify.app/]
+### 🔗 [To-Do List](https://lp-the-coder.github.io/To-Do-List/)
+![Top Language](https://img.shields.io/github/languages/top/LP-THE-CODER/To-Do-List?color=orange&logo=html5)
 
+### 🔗 [BTS Webpage](https://lp-bts.netlify.app/)
 ![Top Language](https://img.shields.io/github/languages/top/LP-THE-CODER/python-game?color=yellow&logo=python)
 
-
-![Top Language](https://img.shields.io/github/languages/top/LP-THE-CODER/To-Do-List?color=orange&logo=html5)
 
 
 ## GitHub Stats
