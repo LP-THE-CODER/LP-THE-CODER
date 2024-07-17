@@ -1,5 +1,4 @@
-# Hi there! 👋 ![Visitor Count](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/LP-THE-CODER&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Visitors&edge_flat=true)
-
+# Hi there! 👋 
 
 I'm Lakshmi Prasanna Morla, a passionate developer . Welcome to my GitHub profile!
 
