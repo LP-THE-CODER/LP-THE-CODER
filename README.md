@@ -2,6 +2,11 @@
 
 I'm Lakshmi Prasanna Morla, a passionate developer . Welcome to my GitHub profile!
 
+<p align="left"> 
+  <img src="https://komarev.com/ghpvc/?username=LP-THE-CODER&label=Profile%20views&color=0e75b6&style=flat" alt="LP-THE-CODER" /> 
+</p>
+
+
 ## About Me
 
 - 🚀 I'm currently working on enhancing my skills in HTML, CSS,  Python,Machine Learning and NLP.
