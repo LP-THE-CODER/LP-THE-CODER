@@ -3,7 +3,7 @@
 I'm Lakshmi Prasanna Morla, a passionate developer . Welcome to my GitHub profile!
 
 <p align="left"> 
-  <img src="https://komarev.com/ghpvc/?username=LP-THE-CODER&label=Profile%20views&color=0e75b6&style=flat" alt="LP-THE-CODER" /> 
+  <img src="https://komarev.com/ghpvc/?username=LP-THE-CODER&label=Visitors&color=0e75b6&style=flat" alt="LP-THE-CODER" /> 
 </p>
 
 
