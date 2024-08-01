@@ -55,9 +55,6 @@ I'm Lakshmi Prasanna Morla, a passionate developer . Welcome to my GitHub profil
 ### 🔗 [BTS Webpage](https://lp-bts.netlify.app/)
 
 
-
-
-
 ## GitHub Stats
 
 ![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=LP-THE-CODER&show_icons=true&theme=radical)
@@ -65,6 +62,16 @@ I'm Lakshmi Prasanna Morla, a passionate developer . Welcome to my GitHub profil
 ## Connect with me:
 [![Kaggle](https://img.shields.io/badge/-Kaggle-20BEFF?style=flat&logo=kaggle&logoColor=white)](https://www.kaggle.com/lakshmiprasannamorla)
 
+<details>
+  <summary>📈 Stats</summary>
+  <br>
+  My Github Stats
+
+  ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=LP-THE-CODER&theme=dracula) 
+
+  ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=LP-THE-CODER&theme=dracula) 
+  ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=LP-THE-CODER&theme=dracula)
+</details>
 
 
 
